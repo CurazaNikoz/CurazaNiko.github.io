@@ -2,7 +2,7 @@ body
 {
   margin: 0;
   padding: 0;
-  background: url(avenger.jpg);
+  background: url(images/avenger.jpg);
  background-size: cover;
   font-family: sans-serif;
 }
@@ -33,7 +33,7 @@ body
   float: left;
   width: 50%;
   height: 400px;
-  background: url(avenger.jpg);
+  background: url(images/avenger.jpg);
   background-size: cover;
   box-sizing: border-box; 
 }
