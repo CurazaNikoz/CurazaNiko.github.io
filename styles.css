@@ -1,0 +1,80 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background: url(avenger.jpg);
+ background-size: cover;
+  font-family: sans-serif;
+}
+.title
+{
+  text-align: center;
+  padding: 50px 0 20px;
+}
+.title h1
+{
+  margin: 0;
+  padding: 0;
+  color: #262626;
+  text-transform: uppercase;
+  font-size: 36px;
+}
+.container
+{
+  width: 25%;
+  height: 360px;
+  background: #fff;
+  margin: 0 auto;
+  border: 2px solid #fff;
+  box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
+.container.left
+{
+  float: left;
+  width: 50%;
+  height: 400px;
+  background: url(avenger.jpg);
+  background-size: cover;
+  box-sizing: border-box; 
+}
+
+.button{
+  margin-top:10px;
+  background-color: rgba(255
+    ,0,0,0.2);
+  padding: 10px 5px 5px 5px;
+}
+.form-box
+
+{
+  width: 100%;
+padding: 80px 40px;
+box-sizing: border-box;
+height: 360px;
+background: #fff;
+}
+.form-box p
+{
+margin: 0;
+padding: 0;
+font-weight: bold;
+color: #a6af13;
+}
+.form-box input
+{
+  width: 100%;
+margin-bottom: 20px;
+}
+.form-box input[type=text],
+.form-box input[type=password]
+{
+  border: none;
+  border-bottom: 2px solid #a6af13;
+  outline: none;
+  height: 40px;
+}
+.form-box input[type=text]:focus,
+.form-box input[type=password]:focus
+.form-box input[type=submit]:focus
+  border-bottom: 2px solid #262626;
+}
